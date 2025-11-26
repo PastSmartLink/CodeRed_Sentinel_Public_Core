@@ -1,0 +1,5 @@
+ccxt>=4.0.0
+asyncio
+numpy>=1.24.0
+logging
+typing
